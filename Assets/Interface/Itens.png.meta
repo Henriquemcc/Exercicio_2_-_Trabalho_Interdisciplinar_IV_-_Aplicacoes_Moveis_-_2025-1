@@ -105,7 +105,7 @@ TextureImporter:
         width: 425
         height: 601
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -127,7 +127,7 @@ TextureImporter:
         width: 341
         height: 405
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -141,7 +141,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_2
+      name: slider
       rect:
         serializedVersion: 2
         x: 454
@@ -149,7 +149,7 @@ TextureImporter:
         width: 56
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -163,7 +163,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_3
+      name: barra_esq_slider
       rect:
         serializedVersion: 2
         x: 513
@@ -171,7 +171,7 @@ TextureImporter:
         width: 63
         height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -185,7 +185,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_4
+      name: barra_dir_slider
       rect:
         serializedVersion: 2
         x: 587
@@ -193,7 +193,7 @@ TextureImporter:
         width: 205
         height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -207,7 +207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_5
+      name: fundo_slider
       rect:
         serializedVersion: 2
         x: 458
@@ -215,7 +215,7 @@ TextureImporter:
         width: 357
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -229,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_6
+      name: btn_menu
       rect:
         serializedVersion: 2
         x: 449
@@ -237,7 +237,7 @@ TextureImporter:
         width: 277
         height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -259,7 +259,7 @@ TextureImporter:
         width: 43
         height: 46
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -273,7 +273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_8
+      name: btn_config
       rect:
         serializedVersion: 2
         x: 10
@@ -281,7 +281,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -295,15 +295,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_9
+      name: btn_listas
       rect:
         serializedVersion: 2
         x: 104
-        y: 153
+        y: 152
         width: 79
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -317,7 +317,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_10
+      name: btn_recompensas
       rect:
         serializedVersion: 2
         x: 199
@@ -325,7 +325,7 @@ TextureImporter:
         width: 79
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -339,7 +339,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_11
+      name: valor_item
       rect:
         serializedVersion: 2
         x: 291
@@ -347,7 +347,7 @@ TextureImporter:
         width: 140
         height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -361,7 +361,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_12
+      name: btn_fechar
       rect:
         serializedVersion: 2
         x: 456
@@ -369,7 +369,7 @@ TextureImporter:
         width: 80
         height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -391,7 +391,7 @@ TextureImporter:
         width: 46
         height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -413,7 +413,7 @@ TextureImporter:
         width: 46
         height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -435,7 +435,7 @@ TextureImporter:
         width: 82
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -449,7 +449,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_16
+      name: item_1
       rect:
         serializedVersion: 2
         x: 0
@@ -457,7 +457,7 @@ TextureImporter:
         width: 129
         height: 129
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -471,7 +471,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_17
+      name: item_2
       rect:
         serializedVersion: 2
         x: 175
@@ -479,7 +479,7 @@ TextureImporter:
         width: 129
         height: 129
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -493,15 +493,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_18
+      name: item_3
       rect:
         serializedVersion: 2
-        x: 350
+        x: 349
         y: 0
         width: 130
         height: 129
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -515,7 +515,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_19
+      name: item_4
       rect:
         serializedVersion: 2
         x: 525
@@ -523,7 +523,7 @@ TextureImporter:
         width: 130
         height: 129
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -537,7 +537,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Itens_20
+      name: item_5
       rect:
         serializedVersion: 2
         x: 700
@@ -545,7 +545,7 @@ TextureImporter:
         width: 130
         height: 129
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -574,25 +574,25 @@ TextureImporter:
     nameFileIdTable:
       Itens_0: 999644664
       Itens_1: -287681315
-      Itens_10: 807200112
-      Itens_11: -1538011928
-      Itens_12: 1703206609
       Itens_13: 636089825
       Itens_14: 1110024391
       Itens_15: 1359034531
-      Itens_16: 2038623298
-      Itens_17: -1667297118
-      Itens_18: 1473008245
-      Itens_19: 1840689002
-      Itens_2: -1205424477
-      Itens_20: 1951785754
-      Itens_3: -1258016317
-      Itens_4: -820204412
-      Itens_5: 1901720579
-      Itens_6: -863350272
       Itens_7: 284721081
-      Itens_8: -1555507326
-      Itens_9: 1804482462
+      barra_dir_slider: -820204412
+      barra_esq_slider: -1258016317
+      btn_config: -1555507326
+      btn_fechar: 1703206609
+      btn_listas: 1804482462
+      btn_menu: -863350272
+      btn_recompensas: 807200112
+      fundo_slider: 1901720579
+      item_1: 2038623298
+      item_2: -1667297118
+      item_3: 1473008245
+      item_4: 1840689002
+      item_5: 1951785754
+      slider: -1205424477
+      valor_item: -1538011928
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
