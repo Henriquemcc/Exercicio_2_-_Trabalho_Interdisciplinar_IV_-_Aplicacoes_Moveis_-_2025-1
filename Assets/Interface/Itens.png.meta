@@ -449,7 +449,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: item_1
+      name: item_armas
       rect:
         serializedVersion: 2
         x: 0
@@ -471,7 +471,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: item_2
+      name: item_diamantes
       rect:
         serializedVersion: 2
         x: 175
@@ -493,7 +493,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: item_3
+      name: item_ruby
       rect:
         serializedVersion: 2
         x: 349
@@ -515,7 +515,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: item_4
+      name: item_pocoes
       rect:
         serializedVersion: 2
         x: 525
@@ -537,7 +537,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: item_5
+      name: item_armaduras
       rect:
         serializedVersion: 2
         x: 700
@@ -586,11 +586,11 @@ TextureImporter:
       btn_menu: -863350272
       btn_recompensas: 807200112
       fundo_slider: 1901720579
-      item_1: 2038623298
-      item_2: -1667297118
-      item_3: 1473008245
-      item_4: 1840689002
-      item_5: 1951785754
+      item_armaduras: 1951785754
+      item_armas: 2038623298
+      item_diamantes: -1667297118
+      item_pocoes: 1840689002
+      item_ruby: 1473008245
       slider: -1205424477
       valor_item: -1538011928
   mipmapLimitGroupName: 
