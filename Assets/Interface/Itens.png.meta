@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Itens_0
+      name: menu_jogar
       rect:
         serializedVersion: 2
         x: 1
@@ -572,7 +572,6 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Itens_0: 999644664
       Itens_1: -287681315
       Itens_13: 636089825
       Itens_14: 1110024391
@@ -591,6 +590,7 @@ TextureImporter:
       item_diamantes: -1667297118
       item_pocoes: 1840689002
       item_ruby: 1473008245
+      menu_jogar: 999644664
       slider: -1205424477
       valor_item: -1538011928
   mipmapLimitGroupName: 
