@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: menu_jogar
+      name: menu
       rect:
         serializedVersion: 2
         x: 1
@@ -590,7 +590,7 @@ TextureImporter:
       item_diamantes: -1667297118
       item_pocoes: 1840689002
       item_ruby: 1473008245
-      menu_jogar: 999644664
+      menu: 999644664
       slider: -1205424477
       valor_item: -1538011928
   mipmapLimitGroupName: 
