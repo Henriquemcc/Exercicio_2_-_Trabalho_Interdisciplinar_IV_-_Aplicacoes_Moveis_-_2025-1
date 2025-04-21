@@ -5,7 +5,7 @@ public class UIActions : MonoBehaviour
 {
     private SceneStack sceneStack;
 
-    void Awake()
+    void Start()
     {
         sceneStack = GameManager.Instance.sceneStack;
     }

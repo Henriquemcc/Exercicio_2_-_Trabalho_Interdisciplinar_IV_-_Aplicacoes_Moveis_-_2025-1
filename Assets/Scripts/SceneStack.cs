@@ -4,9 +4,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneStack : MonoBehaviour
+public class SceneStack
 {
-    private Stack<String> sceneStack = new Stack<String>();
+    private Stack<String> sceneStack;
+
+    public SceneStack(string sceneName)
+    {
+        sceneStack = new Stack<String>();
+        sceneStack.Push(sceneName);
+        Debug.Log("SceneStack initialized with scene: " + sceneName);
+    }
 
     public void PushScene(string sceneName)
     {
