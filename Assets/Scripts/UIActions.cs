@@ -3,15 +3,18 @@ using UnityEngine.SceneManagement;
 
 public class UIActions : MonoBehaviour
 {
-    public void AlterarCena(string cena) {
-        SceneManager.LoadScene(cena);
+    private SceneStack sceneStack;
+
+    void Awake()
+    {
+        sceneStack = GameManager.Instance.sceneStack;
     }
 
-    public void AlterarCenaAditivo(string cena) {
-        SceneManager.LoadScene(cena, LoadSceneMode.Additive);
+    public void LoadSceneStack(string sceneName) {
+        sceneStack.PushScene(sceneName);
     }
 
-    public void RetirarCenaAditivo(string cena) {
-        SceneManager.UnloadSceneAsync(cena);
+    public void PopSceneStack() {
+        sceneStack.PopScene();
     }
 }
